@@ -7,8 +7,8 @@ I'm a Software Engineer who builds resilient web apps with FastAPI. I'm interest
   <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=daquiver1&layout=compact&theme=dracula&count_private=true&langs_count=10" />
 </a>
 
-⚡ I'm currently working on an advanced GPA calculator.
 
+⚡ I'm currently working on an advanced GPA calculator.
 🔭 I’m currently learning **FastAPI**.  
 👯 I’m looking to collaborate on any cool web app project.    
 💬 Apart from tech, we can talk about football and music.  
@@ -44,8 +44,6 @@ I'm a Software Engineer who builds resilient web apps with FastAPI. I'm interest
 
 
 
-![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=daquiver1&theme=react-dark)
-
 
 
 
@@ -53,6 +51,8 @@ I'm a Software Engineer who builds resilient web apps with FastAPI. I'm interest
 
 <!--
 **
+
+![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=daquiver1&theme=react-dark)
 ![](https://github-readme-stats.vercel.app/api?username=daquiver1&show_icons=true&include_all_commits=true&theme=dracula&count_private=true)
 
 Here are some ideas to get you started:
