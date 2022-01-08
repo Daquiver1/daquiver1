@@ -8,7 +8,7 @@ I'm a Software Engineer who builds resilient web apps with FastAPI. I'm interest
 </a>
 
 
-⚡ I'm currently working on an advanced GPA calculator.
+⚡ I'm currently working on an advanced GPA calculator.<br>
 🔭 I’m currently learning **FastAPI**.  
 👯 I’m looking to collaborate on any cool web app project.    
 💬 Apart from tech, we can talk about football and music.  
@@ -26,7 +26,7 @@ I'm a Software Engineer who builds resilient web apps with FastAPI. I'm interest
 <br/>
 
 ## TOOLS & FRAMEWORKS
-<img src="https://fastapi.tiangolo.com/img/logo-margin/logo-teal.png" width="35px">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<img src="https://github.com/simple-icons/simple-icons/blob/develop/icons/fastapi.svg" width="35px">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 <img src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-original.svg" width="35px">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 <img src="https://github.com/devicons/devicon/blob/master/icons/flask/flask-original.svg" width="35px">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 <img src="https://github.com/devicons/devicon/blob/master/icons/tensorflow/tensorflow-line.svg" width="35px">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
@@ -37,15 +37,8 @@ I'm a Software Engineer who builds resilient web apps with FastAPI. I'm interest
 <img src="https://github.com/devicons/devicon/blob/master/icons/heroku/heroku-original.svg" width="35px">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 <img src="https://github.com/devicons/devicon/blob/master/icons/canva/canva-original.svg" width="35px">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
-
-
-
+## STATS
 ![](https://github-readme-streak-stats.herokuapp.com/?user=daquiver1&theme=dracula)
-
-
-
-
-
 
 
 
