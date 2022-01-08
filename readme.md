@@ -19,7 +19,7 @@ I'm a Software Engineer who builds resilient web apps with FastAPI. I'm interest
 <br />
 
 
-## Programming Languages
+## PROGRAMMING LANGUAGES
 
 <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" width="35px">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original.svg" width="35px">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
@@ -42,7 +42,6 @@ I'm a Software Engineer who builds resilient web apps with FastAPI. I'm interest
 
 ![](https://github-readme-streak-stats.herokuapp.com/?user=daquiver1&theme=dracula)
 
-![](https://github-readme-stats.vercel.app/api?username=daquiver1&show_icons=true&include_all_commits=true&theme=dracula&count_private=true)
 
 
 ![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=daquiver1&theme=react-dark)
@@ -54,6 +53,7 @@ I'm a Software Engineer who builds resilient web apps with FastAPI. I'm interest
 
 <!--
 **
+![](https://github-readme-stats.vercel.app/api?username=daquiver1&show_icons=true&include_all_commits=true&theme=dracula&count_private=true)
 
 Here are some ideas to get you started:
 
