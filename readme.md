@@ -8,7 +8,7 @@ I'm a Software Engineer who builds resilient web apps with FastAPI. I'm interest
 </a>
 
 
-⚡ I'm currently working on a GPA level predictor.<br>
+⚡ I'm currently working on ...<br>
 🔭 I’m currently learning **FastAPI**.  
 👯 I’m looking to collaborate on any cool web app project.    
 💬 Apart from tech, we can talk about football and music.  
