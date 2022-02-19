@@ -1,14 +1,12 @@
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=daquiver1&label=Profile%20views&color=0e75b6&style=flat" alt="daquiver1" /> </p>
 
-## Hey, I'm Christian   
-I'm a Software Engineer who builds resilient web apps with FastAPI. I'm interested in data science/ML specifically NLP. I spend half my time tinkering with models and increasing my tech knoweleddge. The other half on self-development. 
+## Hey, I'm Christian a Software Engineer.
 
 <a href="https://github.com/daquiver1">
   <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=daquiver1&layout=compact&theme=dracula&count_private=true&langs_count=10" />
 </a>
 
 
-⚡ I'm currently working on myself.<br>
 💬 Other than tech, we can talk about football, music, history and the fine art of philosophy.  
 📫 Reach me on [linkedin](https://www.linkedin.com/in/daquiver/) and [twitter.](https://twitter.com/daquiver1)   
 🎉 I play the guitar and speak spanish. 
@@ -26,16 +24,13 @@ I'm a Software Engineer who builds resilient web apps with FastAPI. I'm interest
 
 ## TOOLS & FRAMEWORKS
 <img src="https://github.com/simple-icons/simple-icons/blob/develop/icons/fastapi.svg" width="35px">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<img src="https://github.com/devicons/devicon/blob/master/icons/flask/flask-original.svg" width="35px">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 <img src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-original.svg" width="35px">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<img src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-original.svg" width="35px">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 <img src="https://github.com/devicons/devicon/blob/master/icons/flutter/flutter-original.svg" width="35px">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 <img src="https://github.com/devicons/devicon/blob/master/icons/firebase/firebase-plain.svg" width="35px">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-<img src="https://github.com/devicons/devicon/blob/master/icons/flask/flask-original.svg" width="35px">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-<img src="https://github.com/devicons/devicon/blob/master/icons/pandas/pandas-original.svg" width="35px">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-<img src="https://github.com/devicons/devicon/blob/master/icons/numpy/numpy-original.svg" width="35px">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 <img src="https://github.com/devicons/devicon/blob/master/icons/trello/trello-plain.svg" width="35px">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-<img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg" width="35px">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 <img src="https://github.com/devicons/devicon/blob/master/icons/heroku/heroku-original.svg" width="35px">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-<img src="https://github.com/devicons/devicon/blob/master/icons/canva/canva-original.svg" width="35px">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 ## STATS
 ![](https://github-readme-streak-stats.herokuapp.com/?user=daquiver1&theme=dracula)
