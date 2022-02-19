@@ -8,10 +8,8 @@ I'm a Software Engineer who builds resilient web apps with FastAPI. I'm interest
 </a>
 
 
-⚡ I'm currently working on ...<br>
-🔭 I’m currently learning **FastAPI**.  
-👯 I’m looking to collaborate on any cool web app project.    
-💬 Apart from tech, we can talk about football and music.  
+⚡ I'm currently working on myself.<br>
+💬 Other than tech, we can talk about football, music, history and the fine art of philosophy.  
 📫 Reach me on [linkedin](https://www.linkedin.com/in/daquiver/) and [twitter.](https://twitter.com/daquiver1)   
 🎉 I play the guitar and speak spanish. 
 
