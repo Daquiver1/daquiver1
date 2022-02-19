@@ -1,15 +1,15 @@
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=daquiver1&label=Profile%20views&color=0e75b6&style=flat" alt="daquiver1" /> </p>
 
-## Hey, I'm Christian a Software Engineer.
+## Hey I'm Christian, a Software Engineer.
 
 <a href="https://github.com/daquiver1">
   <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=daquiver1&layout=compact&theme=dracula&count_private=true&langs_count=10" />
 </a>
 
 
-💬 Other than tech, we can talk about football, music, history and the fine art of philosophy.  
+💬 We can talk about football, music, history and the fine arts of philosophy. I don't like talking about tech.
 📫 Reach me on [linkedin](https://www.linkedin.com/in/daquiver/) and [twitter.](https://twitter.com/daquiver1)   
-🎉 I play the guitar and speak spanish. 
+🎉 On some nights I play a tune or two on my guitar and on some days I speak the legendary tongues of espanyol.
 
 <br />
 <br />
