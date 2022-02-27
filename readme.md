@@ -7,7 +7,7 @@
 </a>
 
 
-💬 We can talk about football,ideas, music, world domination, history and the fine arts of philosophy. I don't like talking about tech.<br>
+💬 We can talk about football, ideas, music, world domination, history and the fine arts of philosophy. I don't like talking about tech.<br>
 📫 Reach me on [linkedin](https://www.linkedin.com/in/daquiver/) and [twitter.](https://twitter.com/daquiver1)   
 🎉 On some nights I play a tune or two on my guitar and on some days I speak the legendary tongues of espanyol.
 
