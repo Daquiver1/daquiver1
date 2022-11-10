@@ -1,5 +1,6 @@
-<h1 align="center">Hey <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="50px"> I'mm Christian Abrokwa, a Software Engineer</h1>
-<h3 align="center">I love learning new things, I am currently in love with software and data <3 </h3>
+<h1 align="center">Hey <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="50px"></h1><br>
+<h1 align="center">I'm Christian Abrokwa, a Software Engineer</h1>
+<h3 align="center">Programming can be likened to Magic and just like Harry Potter, I'm on a quest to become a seasoned Wizard.</h3>
 
 Here's what I do:
   
@@ -7,7 +8,9 @@ Here's what I do:
   
 - I'm currently building Lost(A secret project) with two of my friends. 
   
-- I love to discuss/analyze solutions to everyday problems, backend architecture, algorithms and a bit of philosophy.
+- I love to analyze solutions to everyday problems, discussing tradeoffs and feasibility.
+
+- I love to talk about backend architecture, algorithms and a bit of philosophy.
   
 - I ocassionaly share my thouhts on [twitter](https://twitter.com/daquiver1). 
   
