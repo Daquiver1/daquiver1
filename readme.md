@@ -1,3 +1,21 @@
+<h1 align="center">Hey <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="50px"> I'mm Christian Abrokwa, a Software Engineer</h1>
+<h3 align="center">I love learning new things, I am currently in love with software and data <3 </h3>
+
+Here's what I do:
+  
+- I write articles on topics/ideas that I find interesting. You can check them out on [Medium](https://daquiver.medium.com)
+  
+- I'm currently building Lost(A secret project) with two of my friends. 
+  
+- I love to discuss/analyze solutions to everyday problems, backend architecture, algorithms and a bit of philosophy.
+  
+- I ocassionaly share my thouhts on [twitter](https://twitter.com/daquiver1). 
+  
+- You can send me an email at **cabrokwa11@gmail.com**
+
+
+<!--
+
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=daquiver1&label=Profile%20views&color=0e75b6&style=flat" alt="daquiver1" /> </p>
 
 ## Hey I'm Christian, a Software Engineer.
@@ -37,7 +55,6 @@
 
 
 
-<!--
 **
 
 ![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=daquiver1&theme=react-dark)
