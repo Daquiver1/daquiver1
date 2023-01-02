@@ -9,11 +9,11 @@ Here's what I do:
   
 - I'm currently building Lost(A secret project) with two of my friends. 
   
-- I love to analyze solutions to everyday problems, discussing tradeoffs and feasibility.
+- I love to analyze solutions to everyday problems. Discussing tradeoffs and feasibility.
 
 - I love to talk about backend architecture, algorithms and a bit of philosophy.
   
-- I ocassionaly share my thouhts on [twitter](https://twitter.com/daquiver1). 
+- I ocassionaly share my thoughts on [twitter](https://twitter.com/daquiver1). 
   
 - You can send me an email at **cabrokwa11@gmail.com**
 
