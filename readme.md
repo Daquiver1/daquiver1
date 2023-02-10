@@ -7,7 +7,7 @@ Here's what I do:
   
 - I write articles on topics/ideas that I find interesting. You can check them out on [Medium](https://daquiver.medium.com)
   
-- I'm currently building Lost(A secret project) with two of my friends. 
+- I'm currently building unLost(A secret project) with two of my friends. 
   
 - I love to analyze solutions to everyday problems. Discussing tradeoffs and feasibility.
 
