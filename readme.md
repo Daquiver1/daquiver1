@@ -7,9 +7,7 @@ Here's what I do:
   
 - I write articles on topics/ideas that I find interesting. You can check them out on [Medium](https://daquiver.medium.com)
   
-I have co-developed **UnLost**, a lost and found application, in collaboration with two of my friends. We are currently focused on enhancing its features with the aim of rolling out **Version 2**. The application is accessible through the following platforms:
-- [Google Play Store](https://play.google.com/store/apps/details?id=com.unlostitem.unlost&pcampaignid=web_share) for Android
-- [Apple App Store](https://apps.apple.com/gh/app/unlost/id6449148342) for iOS
+- I have co-developed **UnLost**, a lost and found application, in collaboration with two of my friends. We are currently focused on enhancing its features with the aim of rolling out **Version 2**. The application is accessible on [Google Play Store](https://play.google.com/store/apps/details?id=com.unlostitem.unlost&pcampaignid=web_share) and [Apple App Store](https://apps.apple.com/gh/app/unlost/id6449148342)
 
 - I love to analyze solutions to everyday problems. Discussing tradeoffs and feasibility.
 
