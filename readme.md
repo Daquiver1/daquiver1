@@ -1,5 +1,5 @@
-<h1 align="center">Hey <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="50px"><br>
-I'm Christian Abrokwa, a Software Engineer.</h1>
+<h1 align="center">Hey 👋🏾<img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="50px"><br>
+My name is Abrokwa. Christian Abrokwa. Nice to meet you.</h1>
 
 Here's what I do:
   
