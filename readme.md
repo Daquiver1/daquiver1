@@ -1,7 +1,5 @@
 <h1 align="center">Hey <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="50px"><br>
 I'm Christian Abrokwa, a Software Engineer.</h1>
-<h3 align="center">Programming can be likened to Magic and just like Harry Potter, I'm on a quest to become a seasoned Wizard.</h3>
-
 
 Here's what I do:
   
