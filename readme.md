@@ -11,7 +11,7 @@ Here's what I do:
   
 - I occasionally share my thoughts on [Twitter](https://twitter.com/daquiver1).
 
-- I play basketball every single second I get. 
+- Hoops, waves, git commits that's me in a nutshell. 
   
 - You can send me an email at **cabrokwa11@gmail.com**
 
