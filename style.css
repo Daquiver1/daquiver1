@@ -1,0 +1,576 @@
+@import url(https://fonts.google.com/specimen/Open+Sans);
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body {
+    font-family: 'Open sans',sans-serif;
+}
+
+
+/* Global Tags  */
+
+h1 {
+    font-size: 3.1rem;
+    font-weight: 800;
+    color:#a52a2a;
+}
+
+span {
+    font-size: 1.2rem;
+    color: #0000ff;
+}
+
+h6 {
+    font-size: 1.2rem;
+    color: #00ffff;
+}
+
+#Navigation#
+
+nav {
+    position: fixed;
+    width: 100%;
+    background-color: #fff;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    align-items: center;
+    padding: 1vw 8vw;
+    box-shadow: 2px 2px 10px rgba(0, 0, 0, 0.15);
+    z-index: 999;
+}
+
+nav img {
+    width: 300px;
+    cursor: pointer;
+}
+
+nav .navigation ul{
+    display: flex;
+    justify-content: flex-end;
+    align-items: center;
+}
+
+nav .navigation ul li{
+    list-style: none;
+    margin-left: 30px;
+}
+
+nav .navigation ul li a{
+    text-decoration: none;
+    color: #8a2be2;
+    font-size: 17px;
+    font-weight: 500;
+    transition: 0.3s ease;
+}
+nav .navigation ul li a.active,
+nav .navigation ul li a:hover{
+    color: #FDC93B;
+}
+
+/* Home */
+
+#home{
+    background-image: linear-gradient(rgba(9, 5, 54, 0.3), rgba(5,4,46,0.7)),url(https://blog.getrooms.co/wp-content/uploads/2021/10/873e90234f68e2c12cca922d7d9042e3.jpg);
+    width: 100%;
+    height: 100vh;
+    background-size: cover;
+    background-position: center;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    padding-top: 40px;
+}
+
+#home h2{
+    color: #fff;
+    font-size: 2.2rem;
+    letter-spacing: 1px;
+}
+
+#home p{
+    width: 50%;
+    color: #fff;
+    font-size: .9rem;
+    line-height: 25px;
+}
+
+#home .btn{
+    margin-top: 30px;
+}
+
+#home a{
+    text-decoration: none;
+    font-size: 0.9rem;
+    padding: 13px 35px;
+    background-color: #fff;
+    font-weight: 600;
+    border-radius: 5px;
+}
+
+#home a.blue{
+    color: #fff;
+    background: rgb(21, 21,100);
+}
+
+#home a.blue:hover {
+    color: rgb(21, 21,100);
+    background: #fff;
+}
+
+#home a.yellow{
+    color: #fff;
+    background: #FDC93B;
+    transition: 0.3s  ease;
+}
+
+#home a.yellow:hover {
+    color: rgb(21, 21,100);
+    background: #fff;
+}
+
+/* features */
+
+
+
+#features{
+    padding: 5vw 8vw 0 8vw;
+    text-align: center;
+}
+
+#features .fea-base{
+    display: grid;
+    grid-template-columns: repeat(auto-fit, minmax(320px, 1fr));
+    grid-gap: 1rem;
+    margin-top: 50px;
+}
+
+#features .fea-box{
+    background-color: #F9F9FF;
+    text-align: start;
+}
+
+#features .fea-box i{
+    font-size: 2.3rem;
+    color: rgb(44, 44, 80);
+}
+
+#features .fea-box h3{
+    font-size: 1.2rem;
+    font-weight: 600;
+    color: rgb(46, 46, 59);
+    padding: 13px 0 7px 0;
+}
+
+#features .fea-box p{
+    font-size: 1rem;
+    font-weight: 400;
+    color: rgb(46, 46, 59);
+}
+
+/* courses */
+
+#course {
+    padding: 8vw 8vw 0 8vw;
+    text-align: center;
+}
+
+#course .course-box {
+    display: grid;
+    grid-template-columns: repeat(auto-fit, minmax(320px, 1fr));
+    grid-gap: 1rem;
+    margin-top: 50px;
+}
+
+#course .courses{
+    text-align: start;
+    background: #F9F9FF;
+    height: 100%;
+}
+
+#course .courses img {
+    width: 100%;
+    height: 60%;
+    background-size: cover;
+    background-position: center;
+}
+
+#course .courses .details{
+    padding: 15px 15px 0 15px;
+}
+
+#course .courses .details i{
+    color: #FDC93B;
+    font-size: .9rem;
+}
+
+/* registration */
+
+#registration{
+    padding: 6vw 8vw 6vw 8vw;
+    background-image: linear-gradient(rgba(99,112,168,0.5), rgba(81,91,233,0.5)) url(https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQufzUcd9nAeHI3v6ZwnvPfUl8RxY7EEmEzuQ&usqp=CAU);
+    width: 100%;
+    height: 100%;
+    background-size: cover;
+    background-position: center;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+#registration .reminder {
+    color: #fff;
+}
+
+#registration .reminder h1 {
+    color: #fff;
+}
+
+#registration .reminder .time {
+    display: flex;
+    margin-top: 40px;
+}
+
+#registration .reminder .time .date{
+    text-align: center;
+    padding: 13px 33px;
+    background: rgba(255, 255, 255, 0.25);
+    backdrop-filter: blur(4px);
+}
+
+#registration .form{
+    background: #fff;
+    border-radius: 8px;
+    display: flex;
+    flex-direction: column;
+    padding: 40px;
+    box-shadow: 0 8px 32px 0 rgba(31, 38, 135, 0.37);
+}
+
+#registration .form input{
+    margin: 15px 0;
+    padding: 15px 10px;
+    border: 1px solid rgb(84, 40, 241);
+    outline: none;
+}
+
+#registration .form input::placeholder{
+    color: #413c3c;
+    font-weight: 500;
+    font-size: 0.9rem;
+}
+
+#registration .form .btn {
+    margin-top: 20px;
+}
+
+#registration a.yellow{
+    text-decoration: none;
+    font-size: 0.9rem;
+    padding: 13px 35px;
+    background-color: #fff;
+    font-weight: 600;
+    border-radius: 5px;
+    color: #fff;
+    background: #FDC93B;
+    transition: 0.3s  ease;
+}
+
+#registration a.yellow:hover {
+    color: rgb(21, 21,100);
+    background: #fff;
+}
+
+/* experts */
+
+#experts {
+    padding: 8vw 8vw 8vw 8vw;
+    text-align: center;
+}
+
+#experts .expert-box {
+    display: grid;
+    grid-template-columns: repeat(auto-fit, minmax(250px, 1fr));
+    grid-gap: 1rem;
+    margin-top: 50px;
+}
+
+#experts .expert-box .profile {
+    background: #fafaf1;
+    padding: 30px 10px;
+}
+
+.pro-links {
+margin-top: 10px;
+}
+
+/* footer */
+
+footer {
+    padding: 8vw;
+    background-color: #101C32;
+    display: flex;
+    justify-content: space-between;
+    align-items: flex-start;
+    flex-wrap: wrap;
+}
+
+footer .footer-col {
+    padding-bottom: 40px;
+}
+
+footer h3{
+    color: rgb(241, 240, 245);
+    font-weight: 600;
+    padding-bottom: 20px;
+}
+
+footer li {
+    list-style: none;
+    color: #7b838a;
+    padding: 10px 0;
+    font-size: 15px;
+    cursor: pointer;
+    transition: 0.3s ease;
+}
+
+footer li:hover {
+    color: rgb(241, 240, 245);
+}
+
+footer p {
+    color: #7b838a;
+}
+
+footer .subscribe {
+    margin-top: 20px;
+}
+
+footer .input {
+    width: 220px;
+    padding: 15px 12px;
+    background: #334F6C;
+    border: none;
+    outline: none;
+    color: #fff;
+}
+
+footer .subscribe a {
+    text-decoration: none;
+    font-size: 0.9rem;
+    padding: 12px 15px;
+    background-color: #fff;
+    font-weight: 600;
+}
+
+footer .subscribe a.yellow {
+    color: #2c2c2c;
+    background: #FDC93B;
+    transition: 0.3s ease;
+}
+
+footer .subscribe a.yellow:hover {
+    color: rgb(21, 21,100);
+    background: #fff;
+}
+
+footer .copyright {
+margin-top: 20px;
+display: flex;
+justify-content: space-between;
+align-items: center; 
+width: 100%;
+flex-wrap: wrap;   
+}
+
+footer .copyright .pro-links {
+    margin-top: 0px;
+}
+
+footer .copyright .pro-links i {
+    background-color: #0000ff;
+    color: #fff;
+}
+
+footer .copyright .pro-links i:hover {
+    background-color: #FDC93B;
+    color: #2c2c2c;
+}
+
+/* About */
+
+#about-container {
+    flex-direction: column;
+}
+
+#about-container .about-img {
+    width: 100%;
+    padding-right: 0px;
+}
+
+#about-container .about-text {
+    width: 100%;
+    padding-bottom: 20px;
+}
+
+#about-home {
+    background-image: linear-gradient(rgba(9, 5, 54, 0.3), rgba(5,4,46,0.7)),url(https://www.ualberta.ca/science/media-library/media-folder/ccis-at-night.jpg);
+    width: 100%;
+    height: 80vh;
+    background-size: cover;
+    background-position: center;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    padding-top: 40px;
+}
+
+#about-home h2{
+    color: #fff;
+    font-size: 2.2rem;
+    letter-spacing: 1px;
+}
+
+#about-container {
+    display: flex;
+    align-items: center;
+    padding: 8vw 8vw 2vw 8vw;
+}
+
+#about-container .about-img {
+    width: 60%;
+}
+
+#about-container .about-img img {
+    width: 100%;
+    padding-right: 60px;
+}
+
+
+#about-container .about-text {
+    width: 40%;
+}
+
+#about-container .about-text h2 {
+    color: #29303B;
+    padding-bottom: 15px;
+}
+
+#about-container .about-text p {
+    color: #686F7A;
+    font-weight: 300;
+}
+
+#about-container .about-text .about-fe {
+    display: flex;
+    justify-content: space-between;
+    align-items: flex-start;
+}
+
+#about-container .about-text .about-fe h5{
+    font-size: 15px;
+    color: #29303B;
+}
+
+/* About */
+#about-container {
+    padding: 8vw 4vw 2vw 4vw;
+}
+#about-container .about-img{
+    padding: 30px;
+}
+
+/* Faculty */
+
+#faculty-container {
+    display: flex;
+    align-items: flex-start;
+    justify-content: space-between;
+    padding: 8vw;
+}
+
+#faculty-container .faculty {
+    width: 60%;
+}
+
+#faculty-container .faculty img {
+    width: 100%;
+    border-radius: 19px;
+}
+
+#faculty-container .cate {
+    width: 30%;
+}
+
+#faculty-container .faculty .post h3 {
+    color: #29303B;
+    padding: 15px 0 10px 0;
+}
+
+#faculty-container .faculty .post .p {
+    color: #757373;
+    padding-bottom: 20px;
+}
+
+#faculty-container .faculty .post a {
+    text-decoration: none;
+    font-size: 0.9rem;
+    padding: 13px 35px;
+    background-color: rgb(21, 21,100);
+    color: #fff;
+}
+
+@media (max-width:400) {
+    nav {
+       padding: 15px 20px;
+       z-index: 9999;
+    }
+    /* Faculty */
+    #faculty-container {
+        padding: 8vw 4vw;
+    }
+}
+
+nav img {
+    width: 300px;
+}
+
+#features {
+    pad: 8vw 4vw 0 4vw;
+}
+
+#course {
+    padding: 8vw 4vw 0 4vw;
+}
+
+#registration {
+    padding: 6vw 4vw 6vw 4vw;
+}
+
+
+#registration .reminder .time {
+    display: flex;
+    flex-wrap: wrap;
+    margin-top: 40px;
+}
+
+#experts {
+    padding: 8vw 8vw 4vw 8vw;
+    text-align: center;
+}
+
+#footer .copyright .pro-links {
+    margin-top: 15px;
+}
+
+#registration {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
