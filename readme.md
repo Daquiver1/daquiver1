@@ -11,4 +11,4 @@ Here's what I do:
   
 - I occasionally share my thoughts on [Twitter](https://twitter.com/daquiver1).
 
-- Hoops, waves, git commits that's me in a nutshell. 
+- Basketball, Surfing, and git commits that's me in a nutshell. 
