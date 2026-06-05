@@ -1,4 +1,4 @@
-<h1 align="center">Hey 👋🏾 I'm Christian Abrokwa.</h1>
+<h1 align="center">Hey 👋🏾<br> I'm Christian Abrokwa.</h1>
 
 <p align="center">
   CEO @ <a href="https://quivertech.co">QuiverTech Solutions</a> · Building <a href="https://quiverfood.co">QuiverFood</a>
