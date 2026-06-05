@@ -1,14 +1,12 @@
-<h1 align="center">Hey 👋🏾<br>
-My name is Christian. Christian Abrokwa. Nice to meet you.</h1>
+<h1 align="center">Hey 👋🏾 I'm Christian Abrokwa.</h1>
+
+<p align="center">
+  CEO @ <a href="https://quivertech.co">QuiverTech Solutions</a> · Building <a href="https://quiverfood.co">QuiverFood</a>
+</p>
 
 Here's what I do:
-  
-- I write articles on topics that I find interesting. You can check them out on [Medium](https://daquiver.medium.com)
-  
-- I'm running a company. QuiverTech Solutions. 
-  
-- I love to talk about backend architecture, and algorithms all dabbled with a bit of philosophy. It's like mixing Plato with Python or Socrates with SQL. 
-  
-- I occasionally share my thoughts on [Twitter](https://twitter.com/daquiver1).
 
-- Basketball, Surfing, and git commits. That's me in a nutshell. 
+- Software engineer. I build things.
+- [**QuiverFood**](https://quiverfood.co) — a WhatsApp-first campus food delivery platform, Ghana.
+- Occasional writing on [Medium](https://daquiver.medium.com) and thoughts on [Twitter/X](https://twitter.com/daquiver1).
+- Basketball, cycling, and theology. That's the overlap nobody expected.
