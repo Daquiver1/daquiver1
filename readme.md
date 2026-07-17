@@ -1,7 +1,7 @@
 <h1 align="center">Hey 👋🏾<br> I'm Christian Abrokwa.</h1>
 
 <p align="center">
-  CEO @ <a href="https://quivertech.co">QuiverTech Solutions</a> · Building <a href="https://quiverfood.co">QuiverFood</a>
+  SWE @ <a href="https://quivertech.co">QuiverTech Solutions</a> · Building <a href="https://quiverfood.co">QuiverFood</a>
 </p>
 
 Here's what I do:
