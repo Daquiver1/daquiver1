@@ -9,4 +9,4 @@ Here's what I do:
 - Software engineer. I build things.
 - [**QuiverFood**](https://quiverfood.co) — a WhatsApp-first campus food delivery platform, Ghana.
 - Occasional writing on [Medium](https://daquiver.medium.com) and thoughts on [Twitter/X](https://twitter.com/daquiver1).
-- Basketball, cycling, and philosophy. Don't ask.
+- Basketball, cycling, and philosophy.
